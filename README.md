@@ -5,3 +5,6 @@
 - Paste Transform
 +++++++
 - CameraRotation
+
++++++++
+- folder Editor move out to Asset
