@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 public class GameObjectRotationTool : EditorWindow
 {
-    [MenuItem("Tools/GameObject Rotation Tool")]
+    [MenuItem("_Artist_Tool/GameObject Rotation Tool")]
     public static void ShowWindow()
     {
         GetWindow<GameObjectRotationTool>("GameObject Rotation Tool");
