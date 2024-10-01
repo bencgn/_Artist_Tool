@@ -1,9 +1,9 @@
-using UnityEditor;
+﻿using UnityEditor;
 using UnityEngine;
 
 public class DivideObjectsTool : EditorWindow
 {
-    private float spacing = 1.0f; // Default spacing value
+	private float spacing = 0.5f; // Default spacing value
 
     [MenuItem("_Artist_Tool/Divide Objects")]
     public static void ShowWindow()
